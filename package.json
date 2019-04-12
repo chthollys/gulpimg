@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-open": "^2.0.0",
+    "gulp.spritesmith": "^6.3.0"
+  },
+  "pre-commit": [
+    "lint"
+  ],
+  "scripts": {
+    "build": ""
+  }
+}
